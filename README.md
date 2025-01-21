@@ -1,4 +1,20 @@
-## Hi there 👋
+# Railah Beaudin's Portfolio
+
+## About Me
+Hi, I'm Railah Beaudin! I'm a web developer passionate about creating clean and efficient code.
+
+## Skills & Technologies
+- HTML, CSS, JavaScript
+- Git, GitHub,
+
+## Projects
+- [Portfolio Website](https://github.com/RailahBeaudin/personalportfolio)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/railahbeaudin/)
+
+- Email: railah2005@gmail.com
+
 
 <!--
 **RailahBeaudin/RailahBeaudin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
